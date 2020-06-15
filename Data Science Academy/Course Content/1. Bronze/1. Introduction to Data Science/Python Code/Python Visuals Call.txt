@@ -1,0 +1,2 @@
+%matplotlib inline
+employee_bar(frame)

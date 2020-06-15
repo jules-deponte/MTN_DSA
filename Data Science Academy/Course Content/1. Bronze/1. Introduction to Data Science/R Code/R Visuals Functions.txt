@@ -1,0 +1,44 @@
+install.packages("ggplot2")
+library(ggplot2)
+
+bar.plot <- function(x, cut = 200) {
+    require(ggplot2)
+    if (is.factor(employee[, x]) | is.character(employee[, x]) & (x != 'Attrition') & x != 'Attrition') {
+        colList = c('Attrition', x)
+        print(paste('*** The col name = ', x))
+        employee[, colList] = lapply(employee[, colList], as.factor)
+        sums <- summary(employee[, x], counts = n())
+        msk <- names(sums[which(sums > cut)])
+        tmp <- employee[employee[, x] %in% msk, colList]
+        capture.output(
+      if (strsplit(x, '[-]')[[1]][1] == x) {
+        g <- ggplot(tmp, aes_string(x)) +
+          geom_bar() +
+          facet_grid(. ~ Attrition) +
+          ggtitle(paste('Attrition by', x))
+        print(g)
+      }
+    )
+    }
+}
+
+box.plot <- function(x) {
+    require(ggplot2)
+    if (is.numeric(employee[, x])) {
+        ggplot(employee, aes_string('Attrition', x)) +
+        geom_boxplot() +
+        ggtitle(paste('Attrition by', x))
+    }
+}
+
+hist.plot <- function(x) {
+    require(ggplot2)
+    if (is.numeric(employee[, x])) {
+        capture.output(
+      ggplot(employee, aes_string(x)) +
+        geom_histogram() +
+        facet_grid(Attrition ~ .) +
+        ggtitle(paste('Attrition by', x))
+    )
+  }
+}

@@ -1,0 +1,307 @@
+StoreKey,GeographyKey,Store Manager,Store Type,Store Name,Status,OpenDate,Close Date,Zip Code,Zip Code Extension,Continent,City,State,Close Reason,Employees,Selling Area,Last Remodel Date,CountryRegion
+17,551,135,Store,Contoso Spokane Store,On,2004/03/26,,97001,97017,North America,Spokane,Washington,,25,700,2009/06/17,United States
+5,677,38,Store,Contoso Redmond Store,On,2004/04/02,,97001,97005,North America,Redmond,Washington,,33,560,2009/06/17,United States
+15,678,48,Store,Contoso Renton Store,On,2004/02/24,,97001,97015,North America,Renton,Washington,,22,500,2009/06/17,United States
+2,693,35,Store,Contoso Seattle No.2 Store,On,2004/02/14,,97001,97002,North America,Seattle,Washington,,25,700,2009/06/17,United States
+150,789,165,Store,Contoso Attleboro Store,On,2004/02/20,,2703,2703,North America,Attleboro,Massachusetts,,19,455,2009/06/17,United States
+40,790,69,Store,Contoso Aurora Store,On,2003/06/11,,87001,87021,North America,Aurora,Colorado,,25,700,2009/06/17,United States
+197,792,211,Store,Contoso Back River Store,On,2004/07/23,,21219,21219,North America,Back River,Maryland,,33,560,2009/06/17,United States
+192,794,206,Store,Contoso Baltimore Store,On,2004/02/18,,21201,21201,North America,Baltimore,Maryland,,17,460,2009/06/17,United States
+167,796,182,Store,Contoso Bar Harbor Store,On,2004/02/18,,4609,4609,North America,Bar Harbor,Maine,,47,1125,2009/06/17,United States
+137,797,153,Store,Contoso Bayonne Store,On,2004/04/17,,7002,7002,North America,Bayonne,New Jersey,,47,1125,2009/06/17,United States
+37,803,66,Store,Contoso Boulder Store,On,2003/03/28,,87001,87018,North America,Boulder,Colorado,,47,1125,2009/06/17,United States
+52,806,137,Store,Contoso Burlington Store,On,2004/06/17,,54001,54012,North America,Burlington,Wisconsin,,47,1125,2009/06/17,United States
+145,808,161,Store,Contoso Cape May Store,On,2004/12/02,,8204,8204,North America,Cape May,New Jersey,,22,500,2009/06/17,United States
+190,810,204,Store,Contoso Charleston Store,On,2004/02/22,,29406,29406,North America,Charleston,South Carolina,,47,1125,2009/06/17,United States
+90,815,108,Store,Contoso Dallas Store,On,2008/12/02,,75201,75202,North America,Dallas,Texas,,47,1125,2009/06/17,United States
+35,818,65,Store,Contoso Denver No.2 Store,On,2004/10/03,,87001,87016,North America,Denver,Colorado,,19,455,2009/06/17,United States
+95,819,113,Store,Contoso Desoto Store,On,2003/03/31,,75201,75207,North America,Desoto,Texas,,26,680,2009/06/17,United States
+135,820,151,Store,Contoso East Orange Store,On,2004/02/15,,7017,7017,North America,East Orange,New Jersey,,19,455,2009/06/17,United States
+20,824,52,Store,Contoso Englewood Store,On,2004/09/29,,87001,87001,North America,Englewood,Colorado,,33,560,2009/06/17,United States
+30,829,62,Store,Contoso Fort Collins Store,On,2004/08/21,,87001,87011,North America,Fort Collins,Colorado,,22,500,2009/06/17,United States
+155,832,170,Store,Contoso Framingham Store,On,2004/03/19,,1701,1701,North America,Framingham,Massachusetts,,25,700,2009/06/17,United States
+187,833,201,Store,Contoso Fredericksburg Store,On,2004/02/19,,22401,22401,North America,Fredericksburg,Virginia,,26,680,2009/06/17,United States
+55,835,77,Store,Contoso Germantown Store,On,2004/09/02,,54001,54015,North America,Germantown,Maryland,,25,700,2009/06/17,United States
+7,838,40,Store,Contoso Granger Store,On,2004/06/16,,97001,97007,North America,Granger,Washington,,22,500,2009/06/17,United States
+25,839,57,Store,Contoso Greeley  No.1 Store,On,2004/03/16,,80631,80631,North America,Greeley,Colorado,,25,700,2009/06/17,United States
+42,840,71,Store,Contoso Green Bay Store,On,2003/08/03,,54001,54002,North America,Green Bay,Wisconsin,,19,455,2009/06/17,United States
+140,842,156,Store,Contoso Hackensack Store,On,2004/07/20,,7601,7601,North America,Hackensack,New Jersey,,25,700,2009/06/17,United States
+172,843,187,Store,Contoso Hartford Store,On,2004/01/17,,6103,6103,North America,Hartford,Connecticut,,26,680,2009/06/17,United States
+92,845,110,Store,Contoso Hillsboro Store,On,2003/01/30,,75201,75204,North America,Hillsboro,Texas,,17,460,2009/06/17,United States
+67,849,88,Store,Contoso Houston No.2 Store,On,2004/03/11,,70001,77010,North America,Houston,Texas,,47,1125,2009/06/17,United States
+132,854,148,Store,Contoso Jersey City Store,On,2004/11/02,,7304,7304,North America,Jersey City,New Jersey,,25,700,2009/06/17,United States
+80,858,98,Store,Contoso La Porte Store,On,2004/02/18,,70001,77025,North America,La Porte,Texas,,26,680,2009/06/17,United States
+27,859,59,Store,Contoso Lafayette Store,On,2004/05/18,,87001,87008,North America,Lafayette,Colorado,,19,455,2009/06/17,United States
+152,861,167,Store,Contoso Leominster Store,On,2004/02/22,,1453,1453,North America,Leominster,Massachusetts,,47,1125,2009/06/17,United States
+97,863,115,Store,Contoso Lewisville Store,On,2003/04/02,,75201,75209,North America,Lewisville,Texas,,33,560,2009/06/17,United States
+75,866,94,Store,Contoso Longview Store,On,2004/02/19,,70001,77019,North America,Longview,Texas,,47,1125,2009/06/17,United States
+60,870,82,Store,Contoso Madison Store,On,2004/02/28,,54001,54020,North America,Madison,Wisconsin,,47,1125,2009/06/17,United States
+102,875,119,Store,Contoso Miami No.2 Store,On,2003/09/07,,33128,33136,North America,Miami,Florida,,25,700,2009/06/17,United States
+70,876,89,Store,Contoso Midland Store,On,2003/09/12,,70001,77020,North America,Midland,Texas,,25,700,2009/06/17,United States
+32,877,63,Store,Contoso Milliken Store,On,2004/10/23,,87001,87013,North America,Milliken,Colorado,,25,700,2009/06/17,United States
+47,878,75,Store,Contoso Milwaukee No.1 Store,On,2004/01/18,,54001,54007,North America,Milwaukee,Wisconsin,,25,700,2009/06/17,United States
+72,879,91,Store,Contoso Minden Store,On,2004/11/06,,70001,77020,North America,Minden,Texas,,26,680,2009/06/17,United States
+142,880,158,Store,Contoso Montclair Store,On,2004/09/22,,7042,7042,North America,Montclair,New Jersey,,19,455,2009/06/17,United States
+165,883,180,Store,Contoso Nantucket Store,On,2004/11/06,,2554,2554,North America,Nantucket,Massachusetts,,19,455,2009/06/17,United States
+227,884,245,Store,Contoso Naples Store,On,2004/03/02,,20124,20124,North America,Naples,Florida,,13,500,2009/06/17,United States
+177,888,192,Store,Contoso New Haven Store,On,2004/06/22,,6511,6511,North America,New Haven,Connecticut,,17,462,2009/06/17,United States
+115,890,131,Store,Contoso New York No.1 Store,On,2004/03/01,,10018,10018,North America,New York,New York,,22,500,2009/06/17,United States
+117,890,131,Store,Contoso New York No.2 Store,On,2005/05/15,,10018,10018,North America,New York,New York,,25,700,2009/06/17,United States
+130,891,147,Store,Contoso Newark No.1 Store,On,2004/08/28,,7102,7102,North America,Newark,New Jersey,,22,500,2009/06/17,United States
+180,892,195,Store,Contoso Norfolk Store,On,2004/08/25,,23504,23504,North America,Norfolk,Virginia,,26,680,2009/06/17,United States
+160,895,175,Store,Contoso Northampton Store,On,2004/08/24,,1062,1062,North America,Northampton,Massachusetts,,47,1125,2009/06/17,United States
+175,896,190,Store,Contoso Old Saybrook Store,On,2004/04/20,,6475,6475,North America,Old Saybrook,Connecticut,,47,1125,2009/06/17,United States
+77,897,96,Store,Contoso Orange Store,On,2004/02/21,,70001,77019,North America,Orange,Texas,,17,462,2009/06/17,United States
+110,899,126,Store,Contoso Orlando Store,On,2003/02/15,,32803,32803,North America,Orlando,Florida,,25,700,2009/06/17,United States
+170,900,185,Store,Contoso Orono Store,On,2004/02/21,,4473,4473,North America,Orono,Maine,,25,700,2009/06/17,United States
+45,901,74,Store,Contoso Oshkosh Store,On,2007/11/06,,54001,54005,North America,Oshkosh,Wisconsin,,22,500,2009/06/17,United States
+122,902,141,Store,Contoso Oswego Store,On,2004/10/20,,13126,13126,North America,Oswego,New York,,22,500,2009/06/17,United States
+100,910,118,Store,Contoso Plano Store,On,2003/07/05,,75201,75212,North America,Plano,Texas,,17,462,2009/06/17,United States
+120,911,139,Store,Contoso Plattsburgh Store,On,2004/08/18,,12901,12901,North America,Plattsburgh,New York,,33,560,2009/06/17,United States
+127,912,145,Store,Contoso Poestenkill Store,On,2004/01/25,,12140,12140,North America,Poestenkill,New York,,19,455,2009/06/17,United States
+57,913,79,Store,Contoso Port Washington Store,On,2004/11/25,,54001,54017,North America,Port Washington,Wisconsin,,26,680,2009/06/17,United States
+195,915,209,Store,Contoso Queen Anne's County Store,On,2004/05/21,,21617,21617,North America,Queen Anne's County,Maryland,,26,680,2009/06/17,United States
+125,916,143,Store,Contoso Queens Store,On,2006/01/23,,11432,11432,North America,Queens,New York,,25,700,2009/06/17,United States
+65,918,87,Store,Contoso Racine No.2 Store,On,2009/07/02,,54025,54025,North America,Racine,Wisconsin,,19,455,2009/06/17,United States
+185,921,199,Store,Contoso Roanoke Store,On,2004/10/17,,24011,24011,North America,Roanoke,Virginia,,17,462,2009/06/17,United States
+87,925,105,Store,Contoso San Antonio Store,On,2004/08/25,,70001,77023,North America,San Antonio,Texas,,26,680,2009/06/17,United States
+107,926,123,Store,Contoso Sebring Store,On,2003/02/12,,33870,33871,North America,Sebring,Florida,,22,500,2009/06/17,United States
+157,931,172,Store,Contoso Somerville Store,On,2004/05/21,,2145,2145,North America,Somerville,Massachusetts,,26,680,2009/06/17,United States
+85,933,103,Store,Contoso Spring Store,On,2004/07/23,,70001,77004,North America,Spring,Texas,,17,462,2009/06/17,United States
+105,937,121,Store,Contoso Tallahassee No.2 Store,On,2003/11/29,,32301,32303,North America,Tallahassee,Florida,,33,560,2009/06/17,United States
+82,939,100,Store,Contoso Texas City Store,On,2004/04/20,,70001,77002,North America,Texas City,Texas,,33,560,2009/06/17,United States
+10,947,43,Store,Contoso Wapato Store,On,2004/09/19,,97001,97010,North America,Wapato,Washington,,25,700,2009/06/17,United States
+50,949,76,Store,Contoso Waukesha No.1 Store,On,2004/04/19,,54001,54010,North America,Waukesha,Wisconsin,,19,455,2009/06/17,United States
+182,951,197,Store,Contoso Winchester Store,On,2004/11/27,,22601,22601,North America,Winchester,Virginia,,33,560,2009/06/17,United States
+147,952,163,Store,Contoso Worcester No.1 Store,On,2004/10/17,,1608,1608,North America,Worcester,Massachusetts,,25,700,2009/06/17,United States
+200,894,213,Catalog,Contoso Catalog Store,On,2004/10/26,,21234,21234,North America,North Harford,Maryland,,120,462,2009/06/17,United States
+199,800,212,Online,Contoso North America Online Store,On,2004/08/25,,20817,20817,North America,Bethesda,Maryland,,325,500,2009/06/16,United States
+4,424,37,Store,Contoso Bellevue Store,On,2004/03/01,,97001,97004,North America,Bellevue,Washington,,19,455,2009/06/16,United States
+6,575,39,Store,Contoso Yakima Store,On,2005/05/15,,97001,97006,North America,Yakima,Washington,,47,1125,2009/06/16,United States
+79,579,97,Store,Contoso Baytown Store,On,2004/01/17,,70001,77005,North America,Baytown,Texas,,26,680,2009/06/16,United States
+16,627,49,Store,Contoso Everett Store,On,2004/01/25,,97001,97016,North America,Everett,Washington,,17,462,2009/06/16,United States
+1,693,35,Store,Contoso Seattle No.1 Store,On,2004/04/12,,97001,97001,North America,Seattle,Washington,,17,462,2009/06/16,United States
+114,782,130,Store,Contoso Albany Store,On,2004/02/12,,12207,12207,North America,Albany,New York,,47,1125,2009/06/16,United States
+191,785,205,Store,Contoso Annapolis Store,On,2004/01/17,,21401,21401,North America,Annapolis,Maryland,,22,500,2009/06/16,United States
+141,788,157,Store,Contoso Atlantic City Store,On,2004/08/21,,8401,8401,North America,Atlantic City,New Jersey,,26,680,2009/06/16,United States
+86,791,104,Store,Contoso Austin Store,On,2004/08/24,,70001,77004,North America,Austin,Texas,,25,700,2009/06/16,United States
+81,793,99,Store,Contoso Bacliff Store,On,2004/03/19,,70001,77002,North America,Bacliff,Texas,,19,455,2009/06/16,United States
+166,795,181,Store,Contoso Bangor Store,On,2004/10/17,,4401,4401,North America,Bangor,Maine,,33,560,2009/06/16,United States
+76,798,95,Store,Contoso Beaumont No.1 Store,On,2004/02/20,,70001,77019,North America,Beaumont,Texas,,22,500,2009/06/16,United States
+146,802,162,Store,Contoso Boston Store,On,2004/11/06,,2210,2210,North America,Boston,Massachusetts,,17,460,2009/06/16,United States
+121,804,140,Store,Contoso Brooklyn Store,On,2004/09/19,,11238,11238,North America,Brooklyn,New York,,47,1125,2009/06/16,United States
+186,811,200,Store,Contoso Charlottesville Store,On,2004/02/18,,22903,22903,North America,Charlottesville,Virginia,,25,700,2009/06/16,United States
+11,813,44,Store,Contoso Cle Elum Store,On,2004/10/20,,97001,97011,North America,Cle Elum,Washington,,26,680,2009/06/16,United States
+134,814,150,Store,Contoso Clifton Store,On,2004/01/24,,7013,7013,North America,Clifton,New Jersey,,26,680,2009/06/16,United States
+176,816,191,Store,Contoso Darien Store,On,2004/05/21,,6820,6820,North America,Darien,Connecticut,,22,500,2009/06/16,United States
+34,818,65,Store,Contoso Denver No.1 Store,On,2004/12/02,,87001,87015,North America,Denver,Colorado,,26,680,2009/06/16,United States
+36,818,65,Store,Contoso Denver No.3 Store,On,2003/06/27,,87001,87017,North America,Denver,Colorado,,33,560,2009/06/16,United States
+126,823,144,Store,Contoso Elmira Store,On,2004/02/24,,14901,14901,North America,Elmira,New York,,26,680,2009/06/16,United States
+14,825,47,Store,Contoso Fall City Store,On,2006/01/23,,97001,97014,North America,Fall City,Washington,,47,1125,2009/06/16,United States
+46,827,136,Store,Contoso Fond du Lac Store,On,2007/12/07,,54001,54006,North America,Fond du Lac,Wisconsin,,17,460,2009/06/16,United States
+64,828,86,Store,Contoso Fort Atkinson Store,On,2004/06/01,,54001,54024,North America,Fort Atkinson,Wisconsin,,26,680,2009/06/16,United States
+109,830,125,Store,Contoso Fort Lauderdale Store,On,2003/02/14,,33304,33304,North America,Fort Lauderdale,Florida,,25,700,2009/06/16,United States
+99,831,117,Store,Contoso Fort Worth Store,On,2003/06/04,,75201,75211,North America,Fort Worth,Texas,,22,500,2009/06/16,United States
+91,834,109,Store,Contoso Georgetown Store,On,2003/01/29,,75201,75203,North America,Georgetown,Texas,,22,500,2009/06/16,United States
+94,837,112,Store,Contoso Grand Prairie Store,On,2003/02/03,,75201,75206,North America,Grand Prairie,Texas,,25,700,2009/06/16,United States
+31,839,57,Store,Contoso Greeley No.2 Store,On,2004/09/22,,80631,80631,North America,Greeley,Colorado,,17,462,2009/06/16,United States
+189,841,203,Store,Contoso Greenville Store,On,2004/02/21,,29601,29601,North America,Greenville,South Carolina,,33,560,2009/06/16,United States
+161,848,176,Store,Contoso Holyoke Store,On,2004/08/25,,1040,1040,North America,Holyoke,Massachusetts,,22,500,2009/06/16,United States
+66,849,88,Store,Contoso Houston No.1 Store,On,2004/08/03,,70001,77009,North America,Houston,Texas,,33,560,2009/06/16,United States
+69,849,88,Store,Contoso Houston No.4 Store,On,2004/08/03,,70001,77020,North America,Houston,Texas,,17,460,2009/06/16,United States
+169,862,184,Store,Contoso Lewiston Store,On,2004/02/20,,4240,4240,North America,Lewiston,Maine,,17,460,2009/06/16,United States
+39,865,68,Store,Contoso Littleton Store,On,2003/05/30,,87001,87020,North America,Littleton,Colorado,,17,462,2009/06/16,United States
+26,867,58,Store,Contoso Loveland Store,On,2004/04/17,,87001,87007,North America,Loveland,Colorado,,26,680,2009/06/16,United States
+151,868,166,Store,Contoso Lowell Store,On,2004/02/21,,1852,1852,North America,Lowell,Massachusetts,,33,560,2009/06/16,United States
+159,869,174,Store,Contoso Lynn Store,On,2004/07/23,,1904,1904,North America,Lynn,Massachusetts,,33,560,2009/06/16,United States
+59,871,81,Store,Contoso Manitowoc Store,On,2004/04/27,,54001,54019,North America,Manitowoc,Wisconsin,,33,560,2009/06/16,United States
+74,872,93,Store,Contoso Marshall Store,On,2004/02/18,,70001,77003,North America,Marshall,Texas,,33,560,2009/06/16,United States
+44,874,73,Store,Contoso Menasha Store,On,2003/10/05,,54001,54004,North America,Menasha,Wisconsin,,47,1125,2009/06/16,United States
+101,875,119,Store,Contoso Miami No.1 Store,On,2003/08/06,,33128,33130,North America,Miami,Florida,,17,462,2009/06/16,United States
+49,878,75,Store,Contoso Milwaukee No.3 Store,On,2004/04/02,,54001,54009,North America,Milwaukee,Wisconsin,,26,680,2009/06/16,United States
+144,882,160,Store,Contoso Morristown Store,On,2004/11/24,,7960,7960,North America,Morristown,New Jersey,,47,1125,2009/06/16,United States
+149,885,164,Store,Contoso New Bedford Store,On,2004/02/19,,2740,2740,North America,New Bedford,Massachusetts,,26,680,2009/06/16,United States
+139,886,155,Store,Contoso New Brunswick Store,On,2004/06/19,,8901,8901,North America,New Brunswick,New Jersey,,17,462,2009/06/16,United States
+24,887,56,Store,Contoso New Castle Store,On,2004/02/15,,87001,87005,North America,New Castle,Colorado,,25,700,2009/06/16,United States
+179,889,194,Store,Contoso New London Store,On,2004/08/24,,6320,6320,North America,New London,Connecticut,,26,680,2009/06/16,United States
+131,891,147,Store,Contoso Newark No.2 Store,On,2004/09/29,,7102,7102,North America,Newark,New Jersey,,17,462,2009/06/16,United States
+61,898,83,Store,Contoso Oregon Store,On,2004/03/29,,54001,54021,North America,Oregon,Wisconsin,,22,500,2009/06/16,United States
+41,904,70,Store,Contoso Parker Store,On,2004/07/02,,54001,54001,North America,Parker,Colorado,,26,680,2009/06/16,United States
+196,905,210,Store,Contoso Parkville Store,On,2004/06/22,,21234,21234,North America,Parkville,Maryland,,19,455,2009/06/16,United States
+136,907,152,Store,Contoso Passaic Store,On,2004/03/16,,7055,7055,North America,Passaic,New Jersey,,33,560,2009/06/16,United States
+164,914,179,Store,Contoso Provincetown Store,On,2004/12/02,,2657,2657,North America,Provincetown,Massachusetts,,26,680,2009/06/16,United States
+154,917,169,Store,Contoso Quincy Store,On,2004/02/18,,2169,2169,North America,Quincy,Massachusetts,,17,462,2009/06/16,United States
+51,918,87,Store,Contoso Racine No.1 Store,On,2004/05/15,,54001,54001,North America,Racine,Wisconsin,,33,560,2009/06/16,United States
+96,919,114,Store,Contoso Richardson Store,On,2003/02/01,,75201,75208,North America,Richardson,Texas,,19,455,2009/06/16,United States
+194,920,208,Store,Contoso Ridgely Store,On,2004/04/20,,21660,21660,North America,Ridgely,Maryland,,25,700,2009/06/16,United States
+116,922,132,Store,Contoso Rochester No.1 Store,On,2004/04/02,,14608,14608,North America,Rochester,New York,,17,462,2009/06/16,United States
+124,922,132,Store,Contoso Rochester No.2 Store,On,2004/12/22,,14608,14608,North America,Rochester,New York,,25,700,2009/06/16,United States
+89,923,107,Store,Contoso Round Rock Store,On,2004/11/27,,70001,77009,North America,Round Rock,Texas,,33,560,2009/06/16,United States
+71,924,90,Store,Contoso Russellville Store,On,2007/11/05,,70001,77020,North America,Russellville,Texas,,25,700,2009/06/16,United States
+171,932,186,Store,Contoso South Portland Store,On,2004/02/22,,4106,4106,North America,South Portland,Maine,,25,700,2009/06/16,United States
+104,937,121,Store,Contoso Tallahassee No.1 Store,On,2003/11/09,,32301,32301,North America,Tallahassee,Florida,,19,455,2009/06/16,United States
+111,938,127,Store,Contoso Tampa Store,On,2003/02/16,,33605,33605,North America,Tampa,Florida,,26,680,2009/06/16,United States
+9,941,42,Store,Contoso Toppenish Store,On,2004/08/18,,97001,97009,North America,Toppenish,Washington,,25,700,2009/06/16,United States
+181,946,196,Store,Contoso Virginia Beach Store,On,2004/10/26,,23451,23451,North America,Virginia Beach,Virginia,,19,455,2009/06/16,United States
+174,948,189,Store,Contoso Waterbury Store,On,2004/03/19,,6702,6702,North America,Waterbury,Connecticut,,33,560,2009/06/16,United States
+54,949,76,Store,Contoso Waukesha No.2 Store,On,2004/08/20,,54014,54014,North America,Waukesha,Wisconsin,,17,462,2009/06/16,United States
+21,950,66,Store,Contoso Wheat Ridge Store,On,2004/11/02,,87001,87002,North America,Wheat Ridge,Colorado,,47,1125,2009/06/16,United States
+88,453,106,Store,Contoso Cedar Park Store,On,2004/10/26,,70001,77011,North America,Cedar Park,Texas,,19,455,2009/06/18,United States
+308,693,35,Reseller,Contoso North America Reseller,On,2004/03/08,,56535,56535,North America,Seattle,Washington,,15,450,2008/06/05,United States
+183,784,111,Store,Contoso Anchorage Store,On,2004/12/02,,,,North America,Anchorage,Alaska,,47,1125,2009/06/18,United States
+43,786,72,Store,Contoso Appleton Store,On,2003/09/04,,54001,54003,North America,Appleton,Wisconsin,,33,560,2009/06/18,United States
+93,787,111,Store,Contoso Arlington Store,On,2003/08/31,,75201,75205,North America,Arlington,Texas,,25,700,2009/06/18,United States
+78,798,95,Store,Contoso Beaumont No.2 Store,On,2004/02/22,,70001,77046,North America,Beaumont,Texas,,25,700,2009/06/18,United States
+33,799,64,Store,Contoso Berthoud Store,On,2004/11/24,,87001,87014,North America,Berthoud,Colorado,,26,680,2009/06/18,United States
+173,801,188,Store,Contoso Bridgeport Store,On,2004/02/18,,6604,6604,North America,Bridgeport,Connecticut,,19,455,2009/06/18,United States
+113,807,129,Store,Contoso Cape Canaveral Store,On,2004/02/14,,32920,32920,North America,Cape Canaveral,Florida,,33,560,2009/06/18,United States
+28,809,60,Store,Contoso Castle Rock Store,On,2004/06/19,,87001,87009,North America,Castle Rock,Colorado,,33,560,2009/06/18,United States
+98,817,116,Store,Contoso Denton Store,On,2003/05/03,,75201,75210,North America,Denton,Texas,,47,1125,2009/06/18,United States
+53,821,138,Store,Contoso East Troy Store,On,2004/08/18,,54001,54013,North America,East Troy,Wisconsin,,22,500,2009/06/18,United States
+63,822,85,Store,Contoso Edgerton Store,On,2004/05/31,,54001,54023,North America,Edgerton,Wisconsin,,25,700,2009/06/18,United States
+163,826,178,Store,Contoso Falmouth Store,On,2004/11/27,,2540,2540,North America,Falmouth,Massachusetts,,25,700,2009/06/18,United States
+198,835,77,Store,Contoso North Harford Store,On,2004/08/24,,20874,20874,North America,Germantown,Maryland,,47,1125,2009/06/18,United States
+23,836,55,Store,Contoso Grand Junction Store,On,2004/01/24,,87001,87004,North America,Grand Junction,Colorado,,17,460,2009/06/18,United States
+158,844,173,Store,Contoso Haverhill Store,On,2004/06/22,,1832,1832,North America,Haverhill,Massachusetts,,19,455,2009/06/18,United States
+153,846,168,Store,Contoso Hingham Store,On,2004/01/17,,2043,2043,North America,Hingham,Massachusetts,,22,500,2009/06/18,United States
+143,847,159,Store,Contoso Hoboken Store,On,2004/10/23,,7030,7030,North America,Hoboken,New Jersey,,33,560,2009/06/18,United States
+68,849,88,Store,Contoso Houston No.3 Store,On,2004/07/02,,70001,77010,North America,Houston,Texas,,22,500,2009/06/18,United States
+193,850,207,Store,Contoso Howard Store,On,2004/03/19,,21794,21794,North America,Howard,Maryland,,25,700,2009/06/18,United States
+123,852,142,Store,Contoso Ithaca Store,On,2004/11/21,,14850,14850,North America,Ithaca,New York,,17,460,2009/06/18,United States
+103,853,120,Store,Contoso Jacksonville Store,On,2003/10/08,,32254,32254,North America,Jacksonville,Florida,,26,680,2009/06/18,United States
+168,855,183,Store,Contoso Kennebunkport Store,On,2004/02/19,,4046,4046,North America,Kennebunkport,Maine,,22,500,2009/06/18,United States
+3,856,36,Store,Contoso Kennewick Store,On,2004/02/12,,97001,97003,North America,Kennewick,Washington,,26,680,2009/06/18,United States
+108,860,124,Store,Contoso Lakeland Store,On,2003/02/13,,33815,33815,North America,Lakeland,Florida,,17,460,2009/06/18,United States
+178,864,193,Store,Contoso Litchfield County Store,On,2004/07/23,,6759,6759,North America,Litchfield County,Connecticut,,25,700,2009/06/18,United States
+188,873,202,Store,Contoso Martinsville Store,On,2004/02/20,,24112,24112,North America,Martinsville,Virginia,,19,455,2009/06/18,United States
+83,906,101,Store,Contoso Pasadena Store,On,2004/05/21,,70001,77003,North America,Pasadena,Texas,,47,1125,2009/06/18,United States
+133,908,149,Store,Contoso Paterson Store,On,2008/12/03,,7505,7505,North America,Paterson,New Jersey,,26,680,2009/06/18,United States
+58,928,80,Store,Contoso Sheboygan Store,On,2004/12/26,,54001,54018,North America,Sheboygan,Wisconsin,,19,455,2009/06/18,United States
+73,929,92,Store,Contoso Shreveport Store,On,2004/10/17,,70001,77002,North America,Shreveport,Texas,,19,455,2009/06/18,United States
+13,930,46,Store,Contoso Snoqualmie Store,On,2004/12/22,,97001,97013,North America,Snoqualmie,Washington,,33,560,2009/06/18,United States
+8,935,41,Store,Contoso Sunnyside Store,On,2004/07/02,,97001,97008,North America,Sunnyside,Washington,,17,460,2009/06/18,United States
+118,936,133,Store,Contoso Syracuse Store,On,2004/06/16,,13203,13203,North America,Syracuse,New York,,26,680,2009/06/18,United States
+38,940,67,Store,Contoso Thornton Store,On,2003/04/29,,87001,87019,North America,Thornton,Colorado,,22,500,2009/06/18,United States
+128,943,146,Store,Contoso Trenton No.1 Store,On,2004/03/26,,8608,8608,North America,Trenton,New Jersey,,33,560,2009/06/18,United States
+18,944,50,Store,Contoso Veradale Store,On,2004/07/27,,97001,97018,North America,Veradale,Washington,,26,680,2009/06/18,United States
+138,945,154,Store,Contoso Vineland Store,On,2004/05/18,,8360,8360,North America,Vineland,New Jersey,,22,500,2009/06/18,United States
+184,783,198,Store,Contoso Alexandria Store,Off,2004/11/06,2009/07/12,22302,22302,North America,Alexandria,Virginia,Relocation,22,500,2009/06/16,United States
+119,805,134,Store,Contoso Buffalo Store,Off,2004/07/02,2008/09/22,14203,14203,North America,Buffalo,New York,Store,19,455,2009/06/16,United States
+19,812,51,Store,Contoso Cheney Store,Off,2004/08/28,2009/05/12,97001,97019,North America,Cheney,Washington,Store,19,455,2009/06/16,United States
+84,851,102,Store,Contoso Humble Store,Off,2004/06/22,2009/02/12,70001,77004,North America,Humble,Texas,Relocation,22,500,2009/06/16,United States
+112,857,128,Store,Contoso Key West Store,Off,2004/01/12,2009/07/02,33040,33040,North America,Key West,Florida,Relocation,19,455,2009/06/17,United States
+48,878,75,Store,Contoso Milwaukee No.2 Store,Off,2004/02/09,2009/05/12,54001,54008,North America,Milwaukee,Wisconsin,Relocation,25,700,2009/06/18,United States
+12,893,45,Store,Contoso North Bend Store,Off,2004/11/21,2009/04/12,97001,97012,North America,North Bend,Washington,Relocation,19,455,2009/06/17,United States
+162,909,177,Store,Contoso Pittsfield Store,Off,2004/10/26,2009/07/12,1201,1201,North America,Pittsfield,Massachusetts,Relocation,17,462,2009/06/17,United States
+29,927,61,Store,Contoso Sedalia Store,Off,2004/07/20,2009/07/12,87001,87010,North America,Sedalia,Colorado,Relocation,47,1125,2009/06/16,United States
+62,934,84,Store,Contoso Stoughton Store,Off,2004/04/30,2009/07/12,54001,54022,North America,Stoughton,Wisconsin,Relocation,17,462,2009/06/17,United States
+129,943,146,Store,Contoso Trenton No.2 Store,Off,2004/07/27,2008/12/12,8608,8608,North America,Trenton,New Jersey,Relocation,47,1125,2009/06/16,United States
+148,952,163,Store,Contoso Worcester No.2 Store,Off,2004/02/18,2009/07/12,1608,1608,North America,Worcester,Massachusetts,Relocation,25,700,2009/06/18,United States
+156,449,171,Store,Contoso Cambridge Store,On,2004/04/20,,2138,2138,Europe,Cambridge,England,,26,680,2009/06/16,United Kingdom
+214,501,232,Store,Contoso Leeds Store,On,2004/06/27,,,,Europe,Leeds,England,,25,680,2009/06/16,United Kingdom
+201,506,219,Store,Contoso London Store,On,2004/11/27,,,,Europe,London,England,,17,462,2009/06/16,United Kingdom
+215,529,233,Store,Contoso Paris Store,On,2004/03/28,,75001,75001,Europe,Paris,Seine (Paris),,12,680,2009/06/17,France
+309,529,233,Reseller,Contoso Europe Reseller,On,2004/05/07,,535455,535455,Europe,Paris,Seine (Paris),,12,551,2008/06/05,France
+253,558,294,Store,Contoso Sydney No.1 Store,On,2005/06/27,,2000,2000,Asia,Sydney,New South Wales,,20,480,2009/06/18,Australia
+300,558,294,Store,Contoso Sydney  No.2 Store,On,2004/03/18,,59000,60000,Asia,Sydney,New South Wales,,95,480,2009/06/18,Australia
+289,562,217,Store,Contoso Vancouver  No.1 Store,On,2004/11/25,,,,North America,Vancouver,British Columbia,,95,480,2009/06/18,Canada
+290,562,217,Store,Contoso Vancouver  No.2 Store,On,2004/12/26,,,,North America,Vancouver,British Columbia,,95,480,2009/06/18,Canada
+22,571,54,Store,Contoso Westminster Store,On,2004/12/03,,87001,87003,North America,Westminster,British Columbia,,22,500,2009/06/17,Canada
+204,576,222,Store,Contoso York Store,On,2004/08/27,,,,Europe,York,England,,78,680,2009/06/16,United Kingdom
+228,586,246,Store,Contoso Berlin Store,On,2008/10/09,,10178,10178,Europe,Berlin,Berlin,,13,500,2009/06/18,Germany
+306,586,246,Online,Contoso Europe Online Store,On,2004/09/03,,10178,10178,Europe,Berlin,Berlin,,7,1000,2009/06/18,Germany
+291,598,218,Store,Contoso Calgary  Store,On,2004/05/27,,,,North America,Calgary,Alberta,,95,480,2009/06/18,Canada
+212,651,230,Store,Contoso Liverpool Store,On,2004/03/02,,,,Europe,Liverpool,England,,64,680,2009/06/17,United Kingdom
+298,708,278,Store,Contoso Ashgabat  No.2 Store,On,2006/11/06,,789000,789000,Asia,Ashgabat,Ahal Province,,95,480,2009/06/18,Turkmenistan
+264,708,278,Store,Contoso Ashgabat No.1 Store,On,2004/01/18,,744000,744000,Asia,Ashgabat,Ahal Province,,68,480,2009/06/16,Turkmenistan
+262,709,276,Store,Contoso Bangkok No.1 Store,On,2008/11/06,,10110,10110,Asia,Bangkok,Krung Thep,,62,480,2009/06/17,Thailand
+296,709,276,Store,Contoso Bangkok No.2 Store,On,2005/06/01,,15210,15210,Asia,Bangkok,Krung Thep,,95,480,2009/06/18,Thailand
+307,710,292,Online,Contoso Asia Online Store,On,2004/10/11,,10093,10093,Asia,Beijing,Beijing,,8,93800,2009/06/18,China
+310,710,292,Reseller,Contoso Asia Reseller,On,2004/07/15,,25536,25536,Asia,Beijing,Beijing,,17,93800,2008/11/05,China
+279,710,292,Store,Contoso Beijing Store,On,2008/07/16,,100007,100007,Asia,Beijing,Beijing,,86,480,2009/06/17,China
+276,711,289,Store,Contoso Bishkek Store,On,2006/08/13,,720005,720005,Asia,Bishkek,Chuy Province,,50,480,2009/06/16,Kyrgyzstan
+275,712,288,Store,Contoso Busan Store,On,2006/07/12,,,,Asia,Busan,Yeongnam,,50,480,2009/06/18,South Korea
+252,713,296,Store,Contoso Canberra Store,On,2005/11/17,,,,Asia,Canberra,Molonglo,,28,480,2009/06/17,Australia
+295,714,275,Store,Contoso Damascus No.2 Store,On,2004/05/31,,36805,36805,Asia,Damascus,Damascus,,95,480,2009/06/18,Syria
+261,714,275,Store,Contoso Damascus No.1 Store,On,2007/10/05,,35005,35005,Asia,Damascus,Damascus,,35,480,2009/06/16,Syria
+280,715,293,Store,Contoso Guangzhou Store,On,2009/07/17,,510000,510000,Asia,Guangzhou,GuangDong,,131,480,2009/06/18,China
+293,716,273,Store,Contoso Hong Kong No.2 Store,On,2007/03/29,,,,Asia,Hong Kong,Hong Kong,,95,480,2009/06/18,China
+259,716,273,Store,Contoso Hong Kong No.1 Store,On,2004/08/03,,,,Asia,Hong Kong,Hong Kong,,35,480,2009/06/16,China
+265,717,279,Store,Contoso Islamabad No.1 Store,On,2004/02/09,,10086,10086,Asia,Islamabad,Islamabad Capital Territory,,71,480,2009/06/17,Pakistan
+299,717,279,Store,Contoso Islamabad  No.2 Store,On,2007/12/07,,15890,15890,Asia,Islamabad,Islamabad Capital Territory,,95,480,2009/06/18,Pakistan
+257,718,271,Store,Contoso Kolkata Store,On,2005/06/11,,700017,700017,Asia,Kolkata,West Bengal,,35,480,2009/06/17,India
+273,719,286,Store,Contoso Kyoto Store,On,2009/09/02,,,,Asia,Kyoto,Kansai,,50,480,2009/06/16,Japan
+256,721,270,Store,Contoso Mumbai Store,On,2004/07/30,,201901,201901,Asia,Mumbai,Maharashtra,,35,480,2009/06/16,India
+271,722,284,Store,Contoso Nagoya Store,On,2008/08/18,,40175,40175,Asia,Nagoya,Chubu,,50,480,2009/06/16,Japan
+255,723,269,Store,Contoso New Delhi Store,On,2004/04/29,,110005,110005,Asia,New Delhi,National Capital Territory of Delhi,,29,480,2009/06/17,India
+270,724,283,Store,Contoso Osaka No.1 Store,On,2005/06/17,,39894,39894,Asia,Osaka,Kansai,,80,480,2009/06/18,Japan
+301,724,283,Store,Contoso Osaka No.2 Store,On,2007/03/19,,89094,89094,Asia,Osaka,Kansai,,95,480,2009/06/18,Japan
+272,725,285,Store,Contoso Sapporo Store,On,2007/08/20,,39864,39864,Asia,Sapporo,Hokkaido,,50,480,2009/06/17,Japan
+274,726,287,Store,Contoso Seoul Store,On,2008/10/13,,57,57,Asia,Seoul,Seoul-jikhalsi,,50,480,2009/06/17,South Korea
+277,727,290,Store,Contoso Shanghai No.1 Store,On,2004/02/14,,201800,201800,Asia,Shanghai,Shanghai,,95,480,2009/06/18,China
+281,727,290,Store,Contoso Shanghai No.2 Store,On,2004/03/02,,201800,201800,Asia,Shanghai,Shanghai,,95,480,2009/06/18,China
+251,728,268,Store,Contoso Singapore Store,On,2004/04/22,,302699,302699,Asia,Singapore,Singapore,,27,480,2009/06/16,Singapore
+302,729,24,Store,Contoso Taipei  Store,On,2004/07/19,,109807,109807,Asia,Taipei,Taiwan,,95,480,2009/06/18,Taiwan
+260,730,274,Store,Contoso Tehran No.1 Store,On,2004/09/04,,1698530,1698530,Asia,Tehran,Tehran,,35,480,2009/06/17,Iran
+294,730,274,Store,Contoso Tehran No.2 Store,On,2004/04/30,,1698556,1698565,Asia,Tehran,Tehran,,95,480,2009/06/18,Iran
+292,731,272,Store,Contoso Thimphu No.2 Store,On,2006/02/28,,,,Asia,Thimphu,Thimphu District,,95,480,2009/06/18,Bhutan
+258,731,272,Store,Contoso Thimphu No.1 Store,On,2009/07/02,,,,Asia,Thimphu,Thimphu District,,35,480,2009/06/18,Bhutan
+267,732,281,Store,Contoso Tokyo No.1 Store,On,2004/04/02,,,,Asia,Tokyo,Kanto,,68,480,2009/06/17,Japan
+268,732,281,Store,Contoso Tokyo No.2 Store,On,2006/04/19,,,,Asia,Tokyo,Kanto,,68,480,2009/06/18,Japan
+278,733,291,Store,Contoso Urumqi Store,On,2005/07/15,,830000,830000,Asia,Urumqi,Xinjiang,,50,480,2009/06/16,China
+254,734,295,Store,Contoso Yerevan Store,On,2004/03/28,,10,10,Asia,Yerevan,Armenia,,15,480,2009/06/16,Armenia
+269,735,282,Store,Contoso Yokohama Store,On,2004/05/15,,,,Asia,Yokohama,Kanto,,77,480,2009/06/17,Japan
+240,736,257,Store,Contoso Amsterdam Store,On,2004/03/29,,,,Europe,Amsterdam,Noord-Holland,,26,680,2009/06/17,the Netherlands
+250,737,267,Store,Contoso Athens Store,On,2004/04/17,,10559,10559,Europe,Athens,Central Greece and Evvoia,,15,680,2009/06/17,Greece
+209,738,227,Store,Contoso Baildon Store,On,2004/09/22,,,,Europe,Baildon,England,,32,680,2009/06/16,United Kingdom
+236,739,253,Store,Contoso Baumholder Store,On,2004/06/25,,55774,55774,Europe,Baumholder,Rhineland-Palatinate,,28,500,2009/06/16,Germany
+246,740,263,Store,Contoso Berne Store,On,2004/04/20,,,,Europe,Berne,Bern,,53,680,2009/06/16,Switzerland
+245,741,262,Store,Contoso Bucharest Store,On,2004/05/19,,30583,30583,Europe,Bucharest,Bucuresti,,25,680,2009/06/17,Romania
+205,742,223,Store,Contoso Carlisle Store,On,2004/05/18,,,,Europe,Carlisle,England,,23,680,2009/06/17,United Kingdom
+210,743,228,Store,Contoso Cheshire Store,On,2004/04/23,,,,Europe,Cheshire,England,,,680,2009/06/17,United Kingdom
+241,745,258,Store,Contoso Copenhagen Store,On,2004/04/30,,,,Europe,Copenhagen,Staden Kobenhavn,,25,680,2009/06/16,Denmark
+249,746,266,Store,Contoso Dublin Store,On,2006/02/20,,,,Europe,Dublin,Leinster,,55,680,2009/06/16,Ireland
+234,747,251,Store,Contoso Dusseldorf Store,On,2007/09/12,,40229,40229,Europe,Dusseldorf,North Rhine-Westphalia,,24,500,2009/06/16,Germany
+202,748,220,Store,Contoso Edinburgh Store,On,2004/08/02,,,,Europe,Edinburgh,Scotland,,25,700,2009/06/17,United Kingdom
+224,749,242,Store,Contoso Firenze Store,On,2004/12/07,,50122,50122,Europe,Firenze,Province of Florence,,45,500,2009/06/16,Italy
+237,750,254,Store,Contoso Giebelstadt Store,On,2004/12/26,,97232,97232,Europe,Giebelstadt,Bavaria,,15,500,2009/06/17,Germany
+203,751,221,Store,Contoso Glasgow Store,On,2007/08/16,,,,Europe,Glasgow,Scotland,,26,680,2009/06/18,United Kingdom
+231,752,248,Store,Contoso Hofheim Store,On,2004/06/17,,65719,65719,Europe,Hofheim am Taunus,Hesse,,25,500,2009/06/16,Germany
+213,753,231,Store,Contoso Knotty Ash Store,On,2004/03/26,,,,Europe,Knotty Ash,England,,24,680,2009/06/18,United Kingdom
+232,754,249,Store,Contoso koln No.1 Store,On,2004/07/29,,50823,50823,Europe,Koln,North Rhine-Westphalia,,35,500,2009/06/17,Germany
+230,754,247,Store,Contoso koln No.2 Store,On,2004/05/15,,50672,50672,Europe,Koln,North Rhine-Westphalia,,25,500,2009/06/17,Germany
+207,755,225,Store,Contoso Lancashire Store,On,2004/07/20,,,,Europe,Lancashire,England,,36,680,2009/06/17,United Kingdom
+233,756,250,Store,Contoso Landstuhl Store,On,2004/08/20,,66917,66917,Europe,Landstuhl,Rhineland-Palatinate,,21,500,2009/06/18,Germany
+303,757,25,Store,Contoso Lisbon Store,On,2004/09/20,,189076,189076,Europe,Lisbon,Lisboa Region,,95,480,2009/06/18,Portugal
+244,758,261,Store,Contoso Ljubljana Store,On,2004/07/02,,1000,1000,Europe,Ljubljana,Ljubljana,,36,680,2009/06/16,Slovenia
+217,759,235,Store,Contoso Lyon Store,On,2004/08/30,,69002,69002,Europe,Lyon,Rhone-Alpes,,15,680,2009/06/17,France
+243,760,260,Store,Contoso Madrid Store,On,2004/03/01,,28049,28049,Europe,Madrid,Madrid,,35,680,2009/06/18,Spain
+206,761,224,Store,Contoso Manchester Store,On,2004/06/19,,,,Europe,Manchester,England,,11,680,2009/06/16,United Kingdom
+216,762,234,Store,Contoso Marseille Store,On,2008/04/29,,13006,13006,Europe,Marseille,Provence-Alpes-Cote d'Azur,,13,680,2009/06/16,France
+226,763,244,Store,Contoso Milan Store,On,2004/04/09,,20149,20149,Europe,Milan,Lombardia,,23,500,2009/06/16,Italy
+263,764,277,Store,Contoso Moscow  No.1 Store,On,2004/06/07,,107031,107031,Europe,Moscow,Moskovskaya oblast,,65,480,2009/06/18,Russia
+297,764,277,Store,Contoso Moscow  No.2 Store,On,2004/07/02,,107561,107561,Europe,Moscow,Moskovskaya oblast,,95,480,2009/06/18,Russia
+239,765,256,Store,Contoso Munich Store,On,2006/02/28,,80331,80331,Europe,Munich,Bavaria,,18,500,2009/06/16,Germany
+220,766,238,Store,Contoso Nantes Store,On,2004/08/03,,44000,44000,Europe,Nantes,Pays de la Loire,,11,680,2009/06/17,France
+219,767,237,Store,Contoso Nice Store,On,2004/02/02,,51000,51000,Europe,Nice,Alpes-Maritimes,,32,680,2009/06/16,France
+305,768,15,Store,Contoso Nizhny Novgorod Store,On,2004/03/15,,147820,147820,Europe,Nizhny Novgorod,Nizhny Novgorod Oblast,,95,480,2009/06/20,Russia
+238,769,255,Store,Contoso obamberg Store,On,2004/05/27,,96049,96049,Europe,Bamberg,Bavaria,,29,500,2009/06/18,Germany
+235,770,252,Store,Contoso Ramstein Store,On,2004/08/13,,66877,66877,Europe,Ramstein,Rhineland-Palatinate,,15,500,2009/06/17,Germany
+222,771,240,Store,Contoso Roma Store,On,2007/10/05,,192,192,Europe,Roma,Roma,,43,490,2009/06/17,Italy
+304,772,14,Store,Contoso Saint Petersburg Store,On,2004/06/07,,2014522,2014522,Europe,Saint Petersburg,Northwestern,,95,480,2009/06/19,Russia
+242,773,259,Store,Contoso Stockholm Store,On,2004/05/31,,11145,11145,Europe,Stockholm,Stockholms,,33,680,2009/06/17,Sweden
+211,774,229,Store,Contoso Stockport Store,On,2004/11/24,,,,Europe,Stockport,England,,34,680,2009/06/16,United Kingdom
+221,775,239,Store,Contoso Strasbourg Store,On,2004/09/04,,67000,67000,Europe,Strasbourg,Bas-Rhin,,10,630,2009/06/16,France
+225,776,243,Store,Contoso Torino Store,On,2004/03/18,,10141,10141,Europe,Torino,Province of Turin,,24,500,2009/06/17,Italy
+218,777,236,Store,Contoso Toulouse Store,On,2004/09/11,,31000,31000,Europe,Toulouse,Midi-Pyrenees,,23,680,2009/06/18,France
+248,778,265,Store,Contoso Valletta Store,On,2004/02/19,,,,Europe,Valletta,Valletta,,42,680,2009/06/18,Malta
+223,779,241,Store,Contoso Venezia Store,On,2009/07/06,,30124,30124,Europe,Venezia,Venice,,11,500,2009/06/18,Italy
+247,780,264,Store,Contoso Warsaw Store,On,2004/09/04,,,,Europe,Warsaw,Warszawa,,15,680,2009/06/17,Poland
+208,781,226,Store,Contoso West Yorkshire Store,On,2004/03/21,,,,Europe,West Yorkshire,England,,90,680,2009/06/18,United Kingdom
+287,881,216,Store,Contoso Montreal No.1 Store,On,2004/09/12,,,,North America,Montreal,Quebec,,95,480,2009/06/18,Canada
+288,881,216,Store,Contoso Montreal No.2 Store,On,2003/02/13,,,,North America,Montreal,Quebec,,95,480,2009/06/18,Canada
+282,903,214,Store,Contoso Ottawa No.1 Store,On,2004/04/09,,,,North America,Ottawa,Ontario,,95,480,2009/06/18,Canada
+283,903,214,Store,Contoso Ottawa No.2 Store,On,2004/05/15,,,,North America,Ottawa,Ontario,,95,480,2009/06/18,Canada
+284,942,215,Store,Contoso Toronto No.1 Store,On,2004/06/17,,,,North America,Toronto,Ontario,,95,480,2009/06/18,Canada
+285,942,215,Store,Contoso Toronto No.2 Store,On,2003/07/29,,,,North America,Toronto,Ontario,,95,480,2009/06/18,Canada
+286,942,215,Store,Contoso Toronto No.3 Store,On,2004/08/20,,,,North America,Toronto,Ontario,,95,480,2009/06/18,Canada

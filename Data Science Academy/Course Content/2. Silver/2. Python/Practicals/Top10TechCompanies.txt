@@ -1,0 +1,12 @@
+Company,MarketValue
+Apple,963.33
+Samsung,221.6
+Microsoft,995.324
+Alphabet,885.97
+Intel,234.73
+IBM,124.08
+Facebook,546.606
+Hon Hai Precision,6023.96
+Tencent,462.116
+Oracle,189.37
+Amazon,134.5

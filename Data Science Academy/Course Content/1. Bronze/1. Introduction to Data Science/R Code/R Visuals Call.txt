@@ -1,0 +1,6 @@
+employee <- dat
+col.names = names(employee)
+col.names = c(col.names, names(employee))
+lapply(col.names, bar.plot)
+lapply(col.names, box.plot)
+lapply(col.names, hist.plot)

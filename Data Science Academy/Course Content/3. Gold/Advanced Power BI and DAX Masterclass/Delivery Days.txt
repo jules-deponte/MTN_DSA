@@ -1,0 +1,15 @@
+Long Delivery Time = 
+    VAR
+        DeliveryDays = 
+            DATE(
+                LEFT(Sales[DeliveryDateKey], 4), 
+                MID(Sales[DeliveryDateKey], 5, 2), 
+                RIGHT(Sales[DeliveryDateKey], 2)) -
+                
+            DATE(
+                LEFT(Sales[OrderDateKey], 4), 
+                MID(Sales[OrderDateKey], 5, 2), 
+                RIGHT(Sales[OrderDateKey], 2))
+    RETURN
+    
+    IF(DeliveryDays > 7, DeliveryDays - 7, 0)

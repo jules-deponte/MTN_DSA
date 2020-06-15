@@ -1,0 +1,8 @@
+CategoryID	CategoryName	Description
+CustomerID	CustomerName	ContactName	Address	City	PostalCode	Country
+EmployeeID	LastName	FirstName	BirthDate	Photo	Notes
+OrderDetailID	OrderID	ProductID	Quantity
+OrderID	CustomerID	EmployeeID	OrderDate	ShipperID
+ProductID	ProductName	SupplierID	CategoryID	Unit	Price
+ShipperID	ShipperName	Phone
+SupplierID	SupplierName	ContactName	Address	City	PostalCode	Country	Phone

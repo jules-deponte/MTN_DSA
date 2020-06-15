@@ -1,0 +1,14 @@
+import seaborn as sns
+import pandas as pd
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+names = frame.columns.tolist()
+for col in names:
+    try:
+        pd.to_numeric(frame[col])
+        plt.figure()
+        sns.boxplot(y = col, x = 'Attrition', data = frame)
+#         sns.distplot(a = frame[col] )
+    except Exception:
+        pass
